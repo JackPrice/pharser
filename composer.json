@@ -1,0 +1,21 @@
+{
+    "name": "jackprice/pharser",
+    "description": "A PHP lexer and parser library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Price",
+            "email": "jackprice@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pharser\\": "src"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+    }
+}
