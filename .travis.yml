@@ -11,3 +11,7 @@ php:
 
 install:
   - composer install
+
+addons:
+    code_climate:
+        repo_token: 6420b519ecca22f8875b6012f9916b85ab4304a4d0084a7ede1bf3b52c372cdd
